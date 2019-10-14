@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29fb8433-ece5-4b1e-be16-848eef11b0f5" name="Default Changelist" comment="" />
+    <list default="true" id="29fb8433-ece5-4b1e-be16-848eef11b0f5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/signin.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/signin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista/vista_alta_pokemons.php" beforeDir="false" afterPath="$PROJECT_DIR$/vista/vista_alta_pokemons.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista/vista_alta_tipo.php" beforeDir="false" afterPath="$PROJECT_DIR$/vista/vista_alta_tipo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista/vista_login.php" beforeDir="false" afterPath="$PROJECT_DIR$/vista/vista_login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista/vista_modificar_pokemons.php" beforeDir="false" afterPath="$PROJECT_DIR$/vista/vista_modificar_pokemons.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vista/vista_pokemons.php" beforeDir="false" afterPath="$PROJECT_DIR$/vista/vista_pokemons.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +105,7 @@
       <workItem from="1570918114777" duration="5062000" />
       <workItem from="1570927021121" duration="2718000" />
       <workItem from="1570933010186" duration="7005000" />
+      <workItem from="1571087457763" duration="5835000" />
     </task>
     <servers />
   </component>

@@ -10,7 +10,7 @@ if (isset($_POST['delete'])) {
 ?>
 <form class="form-inline mb-2" method="get" action="/pokemons-lacquaniti-lucas/pokemons/buscar">
     <input class="form-control mr-sm-2" type="search" placeholder="Buscar" name="nombre">
-    <button class="btn btn-outline-primary my-2 my-sm-0" type="submit">Buscar</button>
+    <button class="btn btn-outline-dark my-2 my-sm-0" type="submit">Buscar</button>
 </form>
 <?php
 if( isset($message) ){
@@ -36,7 +36,7 @@ if( isset($message) ){
         echo "    
         <tr>
             <th scope='row'>" . str_pad($pokemon['numero'], 3, '0', STR_PAD_LEFT) . "</th>
-            <td><img alt=" . $pokemon['numero'] . " src=". $pokemon['imagen'] . " width='30' height='30'></td>
+            <td><img alt=" . $pokemon['numero'] . " src=". $pokemon['imagen'] . " width='50' height='50'></td>
             <td>" . $pokemon['nombre'] . "</td>
             <td>" . getTipoDescripcion($pokemon['tipo']) . "</td>
             ";

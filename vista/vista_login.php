@@ -91,7 +91,7 @@ function autoLogin($user, $password){
     <label>
         <input type="checkbox" name="rememberme"> Recordarme
     </label>
-    <input class="btn btn-lg btn-primary btn-block" type="submit" name="login" value="Iniciar sesión"/>
+    <input class="btn btn-lg btn-dark btn-block" type="submit" name="login" value="Iniciar sesión"/>
 </form>
 </body>
 </html>

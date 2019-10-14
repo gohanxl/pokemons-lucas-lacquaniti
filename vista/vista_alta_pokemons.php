@@ -69,6 +69,6 @@
         ?>
     </div>
 </div>
-<button type="submit" class="btn btn-primary" name="submit">Crear</button>
+<button type="submit" class="btn btn-success" name="submit">Crear</button>
 <button type="button" class="btn btn-secondary" onclick="window.location.replace('/pokemons-lacquaniti-lucas')" name="cancel">Cancelar</button>
 </form>
